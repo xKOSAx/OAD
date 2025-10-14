@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "K:\\Programowanie\\teb\\3TP A\\wlasne\\CharacterSelect\\CharacterSelect\\CharacterSelect.csproj",
+      "projectUniqueName": "K:\\Programowanie\\teb\\3TP A\\wlasne\\OAD\\zad1\\CharacterSelect\\CharacterSelect\\CharacterSelect.csproj",
       "projectName": "CharacterSelect",
-      "projectPath": "K:\\Programowanie\\teb\\3TP A\\wlasne\\CharacterSelect\\CharacterSelect\\CharacterSelect.csproj",
+      "projectPath": "K:\\Programowanie\\teb\\3TP A\\wlasne\\OAD\\zad1\\CharacterSelect\\CharacterSelect\\CharacterSelect.csproj",
       "packagesPath": "C:\\Users\\fhsnk\\.nuget\\packages\\",
-      "outputPath": "K:\\Programowanie\\teb\\3TP A\\wlasne\\CharacterSelect\\CharacterSelect\\obj\\",
+      "outputPath": "K:\\Programowanie\\teb\\3TP A\\wlasne\\OAD\\zad1\\CharacterSelect\\CharacterSelect\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fhsnk\\AppData\\Roaming\\NuGet\\NuGet.Config"
