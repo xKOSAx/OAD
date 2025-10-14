@@ -1,0 +1,55 @@
+# --- .NET build artifacts ---
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+TestResults/
+*.user
+*.rsuser
+*.suo
+*.cache
+*.pdb
+*.mdb
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Rider (JetBrains)
+.idea/
+*.sln.DotSettings.user
+# Rider cache per-solution
+.sln.iml
+
+# Visual Studio
+.vs/
+
+# VS Code
+.vscode/
+.history/
+
+# Coverage / analyzers
+coverage/
+*.coverage
+*.coveragexml
+*.opencover.xml
+.coverage/
+
+# Publish / Artifacts
+publish/
+artifacts/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp
+*.tmp
+*.temp
+
+# If you ever add frontend bits
+node_modules/
+dist/
