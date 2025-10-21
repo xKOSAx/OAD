@@ -17,13 +17,16 @@ namespace CharacterSelect
                 Console.WriteLine("1) Wojownik");
                 Console.WriteLine("2) Mag");
                 Console.WriteLine("3) Łotrzyk");
+                Console.WriteLine("4) Assasin");
+                Console.WriteLine("5) Knight");
+                Console.WriteLine("6) Giant");
                 Console.WriteLine("0) Wyjście");
                 Console.Write("Wybierz klasę [0-3]: ");
 
                 var input = Console.ReadLine();
                 if (input == "0") break;
 
-                if (!int.TryParse(input, out var choice) || choice < 1 || choice > 3)
+                if (!int.TryParse(input, out var choice) || choice < 1 || choice > 6)
                 {
                     Pause("Niepoprawny wybór. Naciśnij Enter…");
                     continue;
