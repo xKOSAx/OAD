@@ -21,7 +21,7 @@ namespace CharacterSelect
                 Console.WriteLine("5) Knight");
                 Console.WriteLine("6) Giant");
                 Console.WriteLine("0) Wyjście");
-                Console.Write("Wybierz klasę [0-3]: ");
+                Console.Write("Wybierz klasę [0-6]: ");
 
                 var input = Console.ReadLine();
                 if (input == "0") break;

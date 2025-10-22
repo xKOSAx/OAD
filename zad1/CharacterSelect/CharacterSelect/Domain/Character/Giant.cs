@@ -11,5 +11,7 @@ public sealed class Giant : Entity.Character
         Strength = 10;
         Intelligence = 3;
         Agility = 2;
+        Sigma = 4;
+        Alpha = 14;
     }
 }

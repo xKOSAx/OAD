@@ -10,6 +10,8 @@ public sealed class Knight : Entity.Character
         Health = 220;
         Strength = 7;
         Intelligence = 10;
-        Agility = 3;
+        Agility = 4;
+        Sigma = 16;
+        Alpha = 2;
     }
 }
